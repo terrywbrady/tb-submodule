@@ -1,0 +1,6 @@
+[submodule "info"]
+	path = info
+	url = https://github.com/terrywbrady/info
+[submodule "CldAws230"]
+	path = CldAws230
+	url = https://github.com/terrywbrady/CldAws230
